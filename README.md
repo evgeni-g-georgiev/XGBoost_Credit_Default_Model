@@ -15,7 +15,7 @@ In its most simple form, a credit default model can be thought of as a dual opti
 <u>We build an incredibly simple (yet powerful) XGBoost model that:</u>
 
 1. has the same (90%) precision on y=0 (non-default) predictions as our [**Bayesian Model**](https://github.com/evgeni-g-georgiev/Bayesian-Credit-Card-Default-Model)
-2. does a far greater better job at **profit-maximisation**. This model accepts 53% of candidates in our test set (vs just 4.5% previously!)
+2. does a far better job at **profit-maximisation**. This model accepts 53% of candidates in our test set (vs just 4.5% previously!)
 
 ## Table of Contents
 - [**0. Project Overview & Introduction**](#0.-Project-Overview-&-Introduction)
