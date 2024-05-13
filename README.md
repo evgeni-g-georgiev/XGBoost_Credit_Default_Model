@@ -16,7 +16,7 @@ In its most simple form, a credit default model can be thought of as a dual opti
 
 1. has the same (90%) precision on y=0 (non-default) predictions as our [**Bayesian Model**](https://github.com/evgeni-g-georgiev/Bayesian-Credit-Card-Default-Model)
 2. does a far better job at **profit-maximisation**. This model accepts 53% of candidates in our test set (vs just 4.5% previously!)
-3. we also show that we can engineer a decision tree based model with an even higher precision of 95% (vs 90%) while also maintaining a still higher "acceptance" rate of 8% (vs 4.5%).
+3. we also show that we can engineer a more defensive model with an even higher precision of 95% (vs 90%) while also maintaining a higher "acceptance" rate of 8% (vs 4.5%).
 
 ## Table of Contents
 - [**0. Project Overview & Introduction**](#0.-Project-Overview-&-Introduction)
