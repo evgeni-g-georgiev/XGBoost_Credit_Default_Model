@@ -8,7 +8,7 @@ In **this project**, I build a simple XGBoost model to tackle the same problem (
 
 In its most simple form, a credit default model can be thought of as a dual optimisation problem:
 1. **risk-mitigation:** you want to be sure that a small number of "accepted" credit card clients end up defaulting.
-2. **profit-maximisation:** you want to make as much money as possible from your accepted credit card clients.
+2. **profit-maximisation:** you want as many clients as possible to collect payments from.
 
 **What we will show in this project is that even very simple decision tree models can out-perform fairly complex linear Bayesian models. In particular, our XGBoost model will do a much better job at the "profit-maximisation" aspect of our problem, while maintaining performance in "risk-mitigation".**
 
